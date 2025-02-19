@@ -1,3 +1,8 @@
+# Tevo Tarantula Marlin-2.1 configurations based on JimBrown's config
+Configured for Tevo titan extruder, 200mm bed, no bed leveling, stock hotend config, MKS 1.3 board, RepRapDiscount Smart Controller.
+
+Linear advance enabled.
+
 <p align="center"><img src="buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" height="250" alt="MarlinFirmware's logo" /></p>
 
 <h1 align="center">Marlin 3D Printer Firmware</h1>
